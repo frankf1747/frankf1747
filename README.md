@@ -29,8 +29,8 @@ I ship it, watch what people do with it, and rebuild. Ship, learn, reship... som
 ### Things I've made
 
 - **Agentic reporting flow** at BioMarin → [case study](https://frankfu.me/works/biomarin)
-- **My Brain**, like literally, my digital self: an AI knowledge base of everything I save → [live demo](https://frankfu.me/progress?p=brain)
 - **Clinical trial risk model** → [case study](https://frankfu.me/works/clinical-trial-risk)
+- **My Brain**, like literally, my digital self with ∞ memory → [live demo](https://frankfu.me/progress?p=brain)
 - Plus data pipelines, dashboards, agents, apps, and whatever else gets stuck in my head
 
 > If an idea won't leave, I research it, then build it. There's a whole notebook of things still waiting: some for work, some purely for fun.
