@@ -12,7 +12,7 @@ Hi, I'm Frank: a data and business analyst with a UX background, and a cook on t
 I serve fun, hopefully, meaningful products and Sichuan (Szechwan) cuisine.  
 *Both only count if you come back for more...*
 
-## Things I've made [frankfu.me/#work →](https://frankfu.me/#work)**
+**Things I've made [frankfu.me/#work →](https://frankfu.me/#work)**
 
 - **Agentic reporting flow** at BioMarin → [case study](https://frankfu.me/works/biomarin)
 - **Clinical trial risk model** → [case study](https://frankfu.me/works/clinical-trial-risk)
