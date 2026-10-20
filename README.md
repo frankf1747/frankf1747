@@ -12,30 +12,12 @@ Hi, I'm Frank: a data and business analyst with a UX background, and a cook on t
 I serve fun, hopefully, meaningful products and Sichuan (Szechwan) cuisine.  
 *Both only count if you come back for more...*
 
-### How I cook
-
-`01` &nbsp;**"So what?" comes first.**  
-If I can't say why it matters now and who needs it, I don't even open Claude yet.
-
-`02` &nbsp;**I'd rather fix the leak than buy a bigger bucket.**  
-Putting AI on top of everything doesn't necessarily make it better. I always go back to first principles: what are we actually trying to do, and is there a better way to do it?
-
-`03` &nbsp;**A number isn't done until it says why.**  
-And what someone should do next. If you close a chart and nothing changes, it was decoration.
-
-`04` &nbsp;**Version one is a guess.**  
-I ship it, watch what people do with it, and rebuild. Ship, learn, reship... sometimes the right move is to step back and rethink.
-
-### Things I've made
+### Things I've made [frankfu.me/#work →](https://frankfu.me/#work)**
 
 - **Agentic reporting flow** at BioMarin → [case study](https://frankfu.me/works/biomarin)
 - **Clinical trial risk model** → [case study](https://frankfu.me/works/clinical-trial-risk)
 - **My Brain**, like literally, my digital self with ∞ memory → [live demo](https://frankfu.me/progress?p=brain)
 - Plus data pipelines, dashboards, agents, apps, and whatever else gets stuck in my head
-
-> If an idea won't leave, I research it, then build it. There's a whole notebook of things still waiting: some for work, some purely for fun.
-
-**See everything on [frankfu.me →](https://frankfu.me)**
 
 ### Now shipping
 
