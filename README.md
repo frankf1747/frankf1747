@@ -12,11 +12,11 @@ Hi, I'm Frank: a data and business analyst with a UX background, and a cook on t
 I serve fun, hopefully, meaningful products and Sichuan (Szechwan) cuisine.  
 *Both only count if you come back for more...*
 
-### Things I've made [frankfu.me/#work →](https://frankfu.me/#work)**
+## Things I've made [frankfu.me/#work →](https://frankfu.me/#work)**
 
 - **Agentic reporting flow** at BioMarin → [case study](https://frankfu.me/works/biomarin)
 - **Clinical trial risk model** → [case study](https://frankfu.me/works/clinical-trial-risk)
-- **My Brain**, like literally, my digital self with ∞ memory → [live demo](https://frankfu.me/progress?p=brain)
+- **My Brain**, like literally, my digital self with ∞ memory → [live demo](https://frankfu.me/works/brain)
 - Plus data pipelines, dashboards, agents, apps, and whatever else gets stuck in my head
 
 ### Now shipping
